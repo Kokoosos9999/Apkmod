@@ -4,7 +4,6 @@
 red='\033[1;31m'  
 yellow='\033[1;33m'
 reset='\033[0m'
-
 ALPINEDIR="${PREFIX}/share/apkmod"
 BINDIR="${PREFIX}/bin"
 LIBDIR="${ALPINEDIR}/usr/lib"
